@@ -1,4 +1,4 @@
-**Cat vs Dog Classifier (CNN)**
+****Cat vs Dog Classifier (CNN)**
 
 A deep learning project where I designed, trained, and optimized a Convolutional Neural Network (CNN) to classify images of cats and dogs.
 
